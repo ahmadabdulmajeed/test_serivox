@@ -1,8 +1,8 @@
 {
-  "name": "serivox-welcome-test",
+  "name": "test-serivox",
   "version": "1.0.0",
   "private": true,
-  "description": "Minimal Serivox App Hosting deploy test app (Next.js)",
+  "description": "Minimal Next.js app for Serivox App Hosting validation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

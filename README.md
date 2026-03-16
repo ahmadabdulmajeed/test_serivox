@@ -1,6 +1,6 @@
-# Serivox Welcome Test App
+# test_serivox
 
-This is a minimal Serivox App Hosting deploy test app.
+Minimal Next.js App Router app for Serivox App Hosting validation.
 
 ## Install
 
@@ -8,10 +8,22 @@ This is a minimal Serivox App Hosting deploy test app.
 npm install
 ```
 
-## Run locally
+## Run in development
 
 ```bash
-npm start
+npm run dev
 ```
 
-The app runs on `process.env.PORT` when provided, otherwise it uses `3000`.
+## Build for production
+
+```bash
+npm run build
+```
+
+## Start production server
+
+```bash
+npm run start
+```
+
+The homepage renders exactly `Welcome Ahmad`.

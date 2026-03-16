@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Serivox Welcome Test'
+  title: 'test_serivox'
 };
 
 export default function RootLayout({ children }) {
