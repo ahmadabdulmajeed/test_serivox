@@ -2,12 +2,15 @@
   "name": "serivox-welcome-test",
   "version": "1.0.0",
   "private": true,
-  "description": "Minimal Serivox App Hosting deploy test app",
-  "main": "index.js",
+  "description": "Minimal Serivox App Hosting deploy test app (Next.js)",
   "scripts": {
-    "start": "node index.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "next": "14.2.32",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   }
 }
