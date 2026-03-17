@@ -1,6 +1,6 @@
 # test_serivox
 
-Minimal Next.js App Router app for Serivox App Hosting validation.
+Minimal Serivox App Hosting test app built with Node.js and Express.
 
 ## Install
 
@@ -8,19 +8,7 @@ Minimal Next.js App Router app for Serivox App Hosting validation.
 npm install
 ```
 
-## Run in development
-
-```bash
-npm run dev
-```
-
-## Build for production
-
-```bash
-npm run build
-```
-
-## Start production server
+## Run
 
 ```bash
 npm run start
